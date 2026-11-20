@@ -134,7 +134,7 @@ Open `http://localhost:8501` in your browser.
 - **Main file path**: `athul-pp/frontend.py` *(or `frontend.py` if root)*
 - **App Secrets**:
   ```toml
-  BACKEND_URL = "https://your-render-service.onrender.com"
+  BACKEND_URL = "https://ai-ig-final-projects-t826.onrender.com"
   ```
 
 ---
