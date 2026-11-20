@@ -141,5 +141,5 @@ Open `http://localhost:8501` in your browser.
 
 ## Capstone Submission Links
 
-Live Frontend URL: TBD
-Live Backend API URL: TBD
+- Live Frontend URL: https://aiigfinalprojects-juh3rbax6he2wsmdgmarau.streamlit.app
+- Live Backend API URL: https://ai-ig-final-projects-t826.onrender.com
